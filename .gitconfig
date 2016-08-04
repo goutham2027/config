@@ -1,0 +1,9 @@
+[alias]
+  st = status
+  co = checkout
+  br = branch
+[user]
+  name = goutham2027
+  email = goutham2027@gmail.com
+[core]
+  editor = vim
